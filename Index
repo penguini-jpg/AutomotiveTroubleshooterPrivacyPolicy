@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Privacy Policy - Automotive Troubleshooter GPT</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Privacy Policy for Automotive Troubleshooter GPT</h1>
+        <p><strong>Effective Date:</strong> 9/21/24</p>
+        <p><strong>Last Updated:</strong> 9/21/24</p>
+
+        <h2>1. Introduction</h2>
+        <p>Welcome to the Automotive Troubleshooter GPT (the "Service"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you interact with our service through the ChatGPT platform, whether as a registered or unregistered user.</p>
+        <p>This policy applies specifically to users of the Automotive Troubleshooter GPT, which helps users diagnose and resolve issues related to their vehicles by inputting relevant personal and vehicular data. By using this service, you agree to the collection and use of information in accordance with this Privacy Policy.</p>
+        <p>If you do not agree with the terms of this Privacy Policy, please discontinue using the service.</p>
+
+        <h2>2. Information We Collect</h2>
+        <h3>A. Personal Information You Provide</h3>
+        <p>When using the Automotive Troubleshooter GPT, you may be asked to provide personal information, including but not limited to:</p>
+        <ul>
+            <li>Personal Identification Information: Such as your name, email address (if required), or username on the platform.</li>
+            <li>Location Data: Your general location (e.g., city or region) may be requested to tailor troubleshooting suggestions to your specific geographic area (e.g., climate, common regional issues).</li>
+            <li>Vehicle Information: Specific details about your vehicle, including but not limited to make, model, year, mileage, and specific problems you're experiencing.</li>
+        </ul>
+        <p>We collect only the information necessary to provide troubleshooting advice based on the input you provide.</p>
+
+        <h3>B. Automatically Collected Information</h3>
+        <p>Our service does not automatically collect personal information. We rely solely on user-provided data.</p>
+
+        <h2>3. How We Use Your Information</h2>
+        <p>The information you provide is used for the following purposes:</p>
+        <ul>
+            <li>Vehicle Troubleshooting Assistance: To generate and provide advice, tips, or solutions for diagnosing issues with your vehicle based on the information you enter.</li>
+            <li>Service Improvements: We may anonymize data for internal analytics and to improve the quality of the service (e.g., to identify common issues for specific vehicle models or to improve troubleshooting methods).</li>
+        </ul>
+        <p>We do not use your data for any purposes other than vehicle troubleshooting or improving the user experience.</p>
+
+        <h2>4. Data Storage and Retention</h2>
+        <h3>A. Storage of Data</h3>
+        <p>We do not store personal information beyond the immediate session in which you use the service. Once the troubleshooting process is complete, we do not retain personally identifiable information unless explicitly stated or required for a specific purpose.</p>
+        <h3>B. Retention of Data</h3>
+        <p>Since no long-term data storage is performed, any information you input is discarded after the session unless the ChatGPT platform retains this data based on its own policies (you should consult OpenAI's privacy policy for more information on this).</p>
+
+        <!-- Continue to include all sections of your privacy policy -->
+
+        <h2>13. Contact Us</h2>
+        <p>If you have any questions or concerns about this Privacy Policy, the practices of this service, or your dealings with us, you can contact us at:</p>
+        <p>Email: <a href="mailto:AdvancedPolymerEngineering@gmail.com">AdvancedPolymerEngineering@gmail.com</a></p>
+    </div>
+</body>
+</html>
